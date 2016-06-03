@@ -1,0 +1,23 @@
+{
+  "name": "testapp",
+  "version": "0.0.0",
+  "description": "My test case",
+  "author": "Marsellite@gmail.com",
+  "contributors": [{
+  "name": "Buddy",
+  "email": "Buddy@example.com"
+}],
+  "main": "test.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/marsellite/test_nodejs_case.git"
+},
+  "dependencies": {
+	"express": "*",
+	"angular": "*",
+	"angular-route": "*"
+  },
+  "preferGlobal": true,
+  "private": true
+}
+  
